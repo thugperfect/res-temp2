@@ -1,0 +1,165 @@
+.head{
+   
+    background-color: green;
+    display: flex;
+    justify-content: center;
+
+    
+}
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fb{
+    height: 30px;
+    width: 30px;
+    background-color: #555;
+    margin: 10px;
+
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.out{
+    color: aliceblue;
+    font-size:40px;
+    padding: 20px;
+    font-weight: 900;
+}
+body{
+    margin: 0%;
+}
+.head1{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+   
+
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(89, 255, 47);
+}
+.navbtn{
+    padding: 15px;
+    color: aliceblue;
+    font-weight: 900;
+}
+.nav1{
+    display: flex;
+
+}
+.navm{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inp{
+    height: 70%;
+    border: none;
+    border-radius: 2px;
+}
+.content{
+    width: 100%;
+    height: 70vh;
+    background-color: #555;
+    display: flex;
+    justify-content: center;
+
+}
+.content1{
+    width: 80%;
+    background-color: rgb(44, 97, 146);
+    position: relative;
+    background-image:url("bt.jpg");
+    background-size: 100% 100%;
+
+}
+.r{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    margin: 10px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border-radius: 100%;
+    color: aliceblue;
+    font-weight: 900;
+
+}
+.r1{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    margin: 10px;
+    position: absolute;
+    right: 40px;
+    bottom: 0;
+    border-radius: 100%;
+    color: aliceblue;
+    font-weight: 900;
+}
+.na{
+    display: flex;
+    
+}
+.down{
+    display: flex;
+    justify-content: space-between;
+    
+   
+    
+      
+}
+.msg{
+    background-color: rgba(0, 0, 0, 0.493);
+    color: aliceblue;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+}
+.imgs{
+    width: 25%;
+    background-color:;
+    height: 30vh;
+    margin: 10px;
+}
+.mings{
+    display: flex;
+    margin: 10px;
+    width: 80%;
+    
+
+}
+.mimgs{
+    display: flex;
+    justify-content: center;
+}
+.b{
+    font-weight: 900;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+.n{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+.d4{
+    width: 100%;
+    
+}
